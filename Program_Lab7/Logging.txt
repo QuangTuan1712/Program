@@ -1,0 +1,13 @@
+12.14.2021 11:58:46  ServerRun.start()
+INFO: Server start: #localhost/127.0.0.1:8989.
+
+12.14.2021 11:58:49  Console.run()
+INFO: From server: info
+Type:  LinkedHashMap
+  Data of initialization:  14/12/21  11:58:45
+  Size:  3.
+
+12.14.2021 11:58:51  Console.run()
+INFO: From server: exit
+Server closed ....
+
