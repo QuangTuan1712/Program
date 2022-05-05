@@ -1,0 +1,9 @@
+help
+info
+show
+execute_script command
+execute_script command1
+remove_key 12
+save
+clear
+history
